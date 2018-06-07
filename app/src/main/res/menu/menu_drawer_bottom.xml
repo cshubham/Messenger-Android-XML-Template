@@ -11,5 +11,9 @@
             android:id="@+id/nav_logout"
             android:icon="@drawable/ic_action_logout"
             android:title="Logout" />
+        <item
+            android:id="@+id/nav_loginn"
+            android:icon="@drawable/bg_chat_me"
+            android:title="SHCHMADE" />
     </group>
 </menu>
